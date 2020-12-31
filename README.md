@@ -1,8 +1,13 @@
-# Typical To Do app built in React
+# Typical To Do App Built in React
 
 If you dont have a to do app, then you havnt completed learning a new front end language!
 
-# Features
+## Features
+
+- [ ] View list of to do
+- [ ] Create new to do
+- [ ] Modify a to do
+- [ ] Delete a to do
 
 
 ## Available Scripts

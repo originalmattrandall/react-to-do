@@ -2,12 +2,14 @@
 
 If you dont have a to do app, then you havnt completed learning a new front end language!
 
+Application set up using React hooks to handle its internal state.
+
 ## Features
 
-- [ ] View list of to do
-- [ ] Create new to do
-- [ ] Modify a to do
-- [ ] Delete a to do
+- [x] View list of to do
+- [x] Create new to do
+- [x] Complete a to do
+- [x] Delete a to do
 
 
 ## Available Scripts

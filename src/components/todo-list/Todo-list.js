@@ -1,20 +1,24 @@
 import React from 'react'
-import Todo from '../todo/Todo'
+import Todo from '../todo'
 import AddTodoForm from '../add-todo-form/Add-todo-form'
 import './Todo-list.css'
 
 const Todolist = () => {
     const [todoList, setTodos] = React.useState([
         {
-            text: "Learn about React",
+            text: "Create todo web application using react and react hooks",
             isComplete: false
         },
         {
-            text: "Meet friend for lunch",
+            text: "upload project as a public repo on github to share with the world",
             isComplete: false
         },
         {
-            text: "Build really cool todo app",
+            text: "Drink coffee. Pat self on back.",
+            isComplete: false
+        },
+        {
+            text: "What does this look like with an overly long sentence that doesnt even make any sense or is correct in any way shape or form",
             isComplete: false
         }
     ])

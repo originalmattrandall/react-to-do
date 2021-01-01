@@ -2,7 +2,9 @@
 
 If you dont have a to do app, then you havnt completed learning a new front end language!
 
-Application set up using React hooks to handle its internal state.
+- Application set up using React hooks to handle its internal state.
+
+- Currently no back end system in place to hold to do items (something to add in the future)
 
 ## Features
 
